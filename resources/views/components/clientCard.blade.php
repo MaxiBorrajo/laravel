@@ -1,0 +1,1 @@
+<li>Fullname:{{$fullname}} , edad: {{$edad}}, status:{{$status}}</li>
